@@ -5,4 +5,4 @@ var t,e=arguments[3];!function(e,i){"function"==typeof t&&t.amd?t([],function(){
 },{}],"GyVV":[function(require,module,exports) {
 "use strict";var t=e(require("notiflix"));function e(t){return t&&t.__esModule?t:{default:t}}const n={delayInput:document.querySelector('input[name="delay"]'),stepInput:document.querySelector('input[name="step"]'),amountInput:document.querySelector('input[name="amount"]'),submitBtn:document.querySelector('button[type="submit"]')};function u(t,e){Math.random()}console.log(n);
 },{"notiflix":"hWOm"}]},{},["GyVV"], null)
-//# sourceMappingURL=/parcel-project-template/03-promises.dceb05b1.js.map
+//# sourceMappingURL=/goit-js-hw-09/03-promises.dceb05b1.js.map
