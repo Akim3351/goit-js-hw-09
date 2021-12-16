@@ -1,5 +1,3 @@
-import { result } from 'lodash';
-import debounce from 'lodash/debounce';
 import Notiflix from 'notiflix';
 
 const inputForm = document.querySelector('form');
